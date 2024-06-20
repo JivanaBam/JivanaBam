@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jibana Bam.
 - 👀 I’m interested in web development.
-- 🌱 I’m a trained MERN STACK Developer.
+- 🌱 I’m a trained MERN Stack Developer.
 - 💞️ I’m looking to collaborate on web development.
 - 📫 How to reach me out on instagram: i_am_jibana
 <!---
